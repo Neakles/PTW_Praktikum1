@@ -47,7 +47,7 @@
 		if(jari != ""){
 			return true;
 		}else{
-			alert('Kolom tidak boleh kosong!!!');
+			alert('Kolom tidak boleh kosong!!!'); // kode ini bertujuan untuk membuat validasi jika user tidak mengisi bidang jari-jari
 		}
     }
 </script>
